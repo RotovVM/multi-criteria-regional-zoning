@@ -1,7 +1,3 @@
-# multi-criteria-regional-zoning
-Python desktop tool for multi-criteria zoning of Russian regions and statistical comparison of zone-based groups.
-
-
 # Regional Zoning Tool
 
 Python desktop application for multi-criteria zoning of Russian regions based on selected indicators, with statistical comparison of the best and worst quartile-based groups.
